@@ -1,0 +1,19 @@
+{
+  "name": "bisp-13292-client",
+  "version": "1.0.0",
+  "description": "Online medical consultation platform connecting patients with doctors in Uzbekistan through Web and Telegram interfaces. Web client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havaian/bisp-13292-client.git"
+  },
+  "author": "havaian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/havaian/bisp-13292-client/issues"
+  },
+  "homepage": "https://github.com/havaian/bisp-13292-client#readme"
+}
